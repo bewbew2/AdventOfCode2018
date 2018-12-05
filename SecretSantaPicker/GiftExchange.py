@@ -2,7 +2,7 @@ import re
 import random
 import copy
 
-with open('name_address_list.txt','r') as f:
+with open('../../name_address_list.txt','r') as f:
     source_list = f.readlines()
 
 
